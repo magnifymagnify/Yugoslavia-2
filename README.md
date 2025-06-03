@@ -1,5 +1,110 @@
 # Yugoslavia-2
 Yugoslavia
+Here's a detailed breakdown of your fictional country based on the map and the name **Yugoslavia 2**:
+
+---
+
+### 🗺️ **Country Profile: Yugoslavia 2**
+
+* **Location:** Based on the map, Yugoslavia 2 spans several non-contiguous regions, notably:
+
+  * A large green-highlighted area near what appears to be the Horn of Africa (Kenya).
+  * Another territory within **Taiwan** (central and northern regions).
+  * Multiple maritime exclaves and small island territories.
+
+---
+
+### 📐 **Geography & Area**
+
+* **Total Area:** \~145,000 km²
+
+  * East African mainland region (Kenya area): \~90,000 km²
+  * Taiwan region: \~35,000 km²
+  * Island territories and exclaves: \~20,000 km²
+
+* **Topography:** Varied — coastal lowlands, interior highlands, river basins, and island archipelagos.
+
+* **Climate:** Tropical to subtropical, with temperate highlands and monsoon influences in the Taiwan region.
+
+---
+
+### 👥 **Population**
+
+* **Total Population:** \~39 million
+
+  * Mainland Africa: 22 million
+  * Taiwan region: 14 million
+  * Islands/Exclaves: 3 million
+
+* **Demographics:**
+
+  * **Ethnic Groups:**
+
+    * Yugoslavian-African (mixed ancestry): 42%
+    * Afro-Taiwanese: 25%
+    * Indigenous Bantu groups: 18%
+    * Han Yugoslavians: 10%
+    * Other minorities (Eurasian, Arab, expats): 5%
+
+  * **Religions:**
+
+    * Yugoslavian Orthodoxy: 36%
+    * Syncretic Faiths (local and Slavic fusion): 30%
+    * Islam: 14%
+    * Buddhism & Taoism: 10%
+    * Other/None: 10%
+
+  * **Languages:**
+
+    * Official: Yugoslavic (fictional Slavic-Creole fusion)
+    * Recognized: Swahili, Mandarin, English, Serbian, Hakka
+
+---
+
+### 🏛️ **Political Details**
+
+* **Capital:** **Novo Beogradia** (Located in the African mainland region)
+* **Largest City:** **Taitrona** (Taiwanese region, high-tech and cultural capital)
+* **Government Type:** Federal parliamentary republic with autonomous provinces
+
+---
+
+### 💰 **Economic Data**
+
+* **GDP (PPP):** \$582 billion (\~\$14,923 per capita)
+
+* **GDP (Nominal):** \$274 billion (\~\$7,026 per capita)
+
+* **Main Industries:**
+
+  * Technology and semiconductors (Taiwan region)
+  * Maritime trade and port services
+  * Agriculture and fishing
+  * Tourism (ecotourism and heritage)
+  * Resource extraction (minerals, geothermal)
+
+* **Currency:** **Yugo (₴YUG)**
+
+  * 1 Yugo = \~0.85 USD (floating exchange rate)
+
+* **Time Zones:**
+
+  * **YUG-W (West Yugoslavia):** UTC+3 (Africa region)
+  * **YUG-E (East Yugoslavia):** UTC+8 (Taiwan region)
+
+---
+
+### 📊 **Social Indicators**
+
+* **HDI:** 0.784 (High)
+* **Gini Coefficient:** 0.38
+
+  * Moderate inequality, especially between island/urban and inland/rural regions.
+
+---
+
+Would you like me to dive into Yugoslavia 2’s **history**, **cultural identity**, or **reasons to visit** next?
+
 # history
 Here’s a detailed fictional **history of Yugoslavia 2**, interwoven with a dramatized alternate timeline of the **original Yugoslavia**:
 
